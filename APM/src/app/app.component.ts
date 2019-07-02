@@ -7,8 +7,7 @@ import { Component } from "@angular/core";
   <div>
   
   <h1>{{pageTitle}}</h1>
-  <div> my First Component desde Visual Studio Code con Git Hub</div>
-  
+  <pm-products></pm-products>  
   </div>
   
   `
